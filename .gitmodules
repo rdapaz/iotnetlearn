@@ -1,0 +1,3 @@
+[submodule "NetCollector"]
+	path = NetCollector
+	url = https://github.com/andrewfitt/NetCollector.git
