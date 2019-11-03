@@ -1,1 +1,10 @@
-csv_path:
+db:
+#  dbLocation: ../db/db01/NetCollector.sqlite
+  dbLocation: ../db/db02/NetCollector.sqlite
+#  dbLocation: ../db/db03/NetCollector.sqlite
+  geodbLocation: ../db/geodb/geo.db
+
+home_network:
+#  network_address: 10.11.12.0/24
+  network_address: 192.168.44.0/24
+#  network_address: 192.168.1.0/24
